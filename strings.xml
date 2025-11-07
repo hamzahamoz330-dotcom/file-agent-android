@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- اسم التطبيق -->
+    <string name="app_name">أداة معالجة الملفات</string>
+    
+    <!-- النصوص الرئيسية -->
+    <string name="select_file">اختيار ملف</string>
+    <string name="process_file">معالجة الملف</string>
+    <string name="file_name">اسم الملف</string>
+    <string name="result">النتيجة</string>
+    <string name="no_file_selected">لم يتم اختيار ملف</string>
+    <string name="processing">جاري المعالجة...</string>
+    <string name="processing_complete">تمت المعالجة بنجاح</string>
+    <string name="processing_error">خطأ في المعالجة</string>
+    <string name="file_processed">تم معالجة الملف</string>
+    <string name="file_type">نوع الملف</string>
+    <string name="file_size">حجم الملف</string>
+    <string name="file_location">موقع الملف</string>
+    <string name="creation_date">تاريخ الإنشاء</string>
+    <string name="modification_date">تاريخ التعديل</string>
+    
+    <!-- أنواع الملفات -->
+    <string name="image_file">صورة</string>
+    <string name="video_file">فيديو</string>
+    <string name="audio_file">ملف صوتي</string>
+    <string name="text_file">ملف نصي</string>
+    <string name="document_file">مستند</string>
+    <string name="archive_file">أرشيف</string>
+    <string name="unknown_file">نوع غير معروف</string>
+    
+    <!-- العمليات -->
+    <string name="extract_images">استخراج الصور</string>
+    <string name="convert_format">تحويل الصيغة</string>
+    <string name="compress_file">ضغط الملف</string>
+    <string name="encrypt_file">تشفير الملف</string>
+    <string name="analyze_content">تحليل المحتوى</string>
+    <string name="extract_metadata">استخراج البيانات الوصفية</string>
+    <string name="create_backup">إنشاء نسخة احتياطية</string>
+    
+    <!-- رسائل الأخطاء -->
+    <string name="error_file_not_found">الملف غير موجود</string>
+    <string name="error_permission_denied">لا توجد صلاحيات للوصول</string>
+    <string name="error_processing_failed">فشل في المعالجة</string>
+    <string name="error_unsupported_format">صيغة غير مدعومة</string>
+    <string name="error_file_too_large">الملف كبير جداً</string>
+    <string name="error_no_space">مساحة غير كافية</string>
+    
+    <!-- رسائل النجاح -->
+    <string name="success_processed">تمت المعالجة بنجاح</string>
+    <string name="success_saved">تم الحفظ بنجاح</string>
+    <string name="success_exported">تم التصدير بنجاح</string>
+    <string name="success_deleted">تم الحذف بنجاح</string>
+    
+    <!-- إعدادات -->
+    <string name="settings">الإعدادات</string>
+    <string name="language">اللغة</string>
+    <string name="theme">المظهر</string>
+    <string name="notification">الإشعارات</string>
+    <string name="auto_backup">النسخ الاحتياطي التلقائي</string>
+    <string name="max_file_size">الحجم الأقصى للملف</string>
+    <string name="output_format">صيغة الإخراج</string>
+    <string name="quality">الجودة</string>
+    
+    <!-- الألوان -->
+    <string name="primary_color">اللون الأساسي</string>
+    <string name="accent_color">لون التمييز</string>
+    <string name="background_color">لون الخلفية</string>
+    
+    <!-- التراخيص -->
+    <string name="about">حول</string>
+    <string name="version">الإصدار</string>
+    <string name="developer">المطور</string>
+    <string name="license">الترخيص</string>
+    <string name="contact">اتصل بنا</string>
+    <string name="feedback">إرسال تقييم</string>
+    <string name="help">المساعدة</string>
+    <string name="privacy">سياسة الخصوصية</string>
+    <string name="terms">شروط الاستخدام</string>
+</resources>

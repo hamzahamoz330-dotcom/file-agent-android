@@ -1,0 +1,3 @@
+// Settings.gradle
+rootProject.name = "FileAgent"
+include ':app'
